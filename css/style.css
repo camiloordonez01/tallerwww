@@ -1,0 +1,17 @@
+a.boton{
+	background-color: blue;
+    padding: 5px 20px;
+    color: white !important;
+    font-weight: bold;
+    cursor: pointer;
+}
+#table_id_wrapper{
+	width: 100%;
+}
+.tablaDis{
+	padding: 40px 0px;
+    text-align: center;
+}
+div.dataTables_scroll{
+	border:1px solid black;
+}
